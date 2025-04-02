@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+:root {
+    --main-color: #bdba1f;
+    font-size: 16px
+}
+body,button {
+    font-family: "Roboto";
+}
+body {
+    background-color: goldenrod;
+}
